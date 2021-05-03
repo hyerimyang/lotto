@@ -2,7 +2,7 @@
 
 # url : 
 
->> ![](https://images.velog.io/images/hyerimiya/post/26ef7f07-6d63-432e-b1ad-e238e21e5145/lotto.png)
+![](https://images.velog.io/images/hyerimiya/post/26ef7f07-6d63-432e-b1ad-e238e21e5145/lotto.png)
 
 
 ## 작품소개
